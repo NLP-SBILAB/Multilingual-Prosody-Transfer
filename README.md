@@ -17,6 +17,9 @@ python3 transfer-learning.py \
 ## Results
 <img width="947" alt="Screenshot 2024-10-07 at 2 24 11 PM" src="https://github.com/user-attachments/assets/2f82f642-f126-4bf5-995c-8a00e93708b4">
 
+<img width="1221" alt="Screenshot 2024-10-07 at 2 31 52 PM" src="https://github.com/user-attachments/assets/febaf07c-d6b2-462b-bbfb-75d9397b4daa">
+
+
 * We additionally provide the script to calculate `Mel Cepstral Distortion (MCD)`.
 
 ## Citation
